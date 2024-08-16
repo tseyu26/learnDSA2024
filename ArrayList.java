@@ -1,4 +1,4 @@
-import java.util.Random;;
+import java.util.Random;
 public class ArrayList{
     public static void main(String[] args){
         int[] array = new int[10];
